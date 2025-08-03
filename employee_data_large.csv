@@ -1,0 +1,51 @@
+EmployeeID,Name,Department,Gender,Age,Salary,YearsAtCompany,EducationLevel
+1001,Employee_1,Sales,Male,51,112560,9,Masters
+1002,Employee_2,IT,Male,30,106232,8,High School
+1003,Employee_3,Sales,Female,39,70839,6,High School
+1004,Employee_4,Marketing,Female,35,117656,1,PhD
+1005,Employee_5,Marketing,Male,45,101532,1,Masters
+1006,Employee_6,IT,Male,58,116444,8,High School
+1007,Employee_7,Marketing,Male,38,67468,12,PhD
+1008,Employee_8,HR,Male,30,50859,14,Masters
+1009,Employee_9,IT,Female,57,53369,10,Masters
+1010,Employee_10,Marketing,Male,58,83085,0,High School
+1011,Employee_11,Marketing,Female,41,43074,11,High School
+1012,Employee_12,HR,Male,50,39781,3,Bachelors
+1013,Employee_13,HR,Female,36,38596,12,PhD
+1014,Employee_14,HR,Male,53,56421,11,PhD
+1015,Employee_15,Marketing,Male,33,68826,5,PhD
+1016,Employee_16,HR,Male,50,115755,6,High School
+1017,Employee_17,Marketing,Male,35,94038,5,Masters
+1018,Employee_18,IT,Male,26,69718,0,Masters
+1019,Employee_19,IT,Female,23,94130,2,Bachelors
+1020,Employee_20,Finance,Male,26,85865,14,PhD
+1021,Employee_21,Finance,Male,46,110042,12,Masters
+1022,Employee_22,IT,Female,22,103583,8,PhD
+1023,Employee_23,Finance,Female,27,63623,3,Bachelors
+1024,Employee_24,Marketing,Female,36,98992,1,High School
+1025,Employee_25,Sales,Female,58,38026,10,Bachelors
+1026,Employee_26,IT,Female,43,104566,1,High School
+1027,Employee_27,IT,Female,33,67314,12,Bachelors
+1028,Employee_28,IT,Male,33,45211,5,High School
+1029,Employee_29,Marketing,Female,51,64854,8,PhD
+1030,Employee_30,IT,Female,54,104418,8,Masters
+1031,Employee_31,IT,Female,34,69112,15,High School
+1032,Employee_32,HR,Female,43,50451,5,PhD
+1033,Employee_33,Finance,Female,34,119312,14,High School
+1034,Employee_34,HR,Female,35,47276,13,High School
+1035,Employee_35,Sales,Male,33,101151,14,Masters
+1036,Employee_36,Sales,Male,29,117242,6,Bachelors
+1037,Employee_37,IT,Female,23,41095,8,PhD
+1038,Employee_38,Finance,Female,50,67467,6,High School
+1039,Employee_39,HR,Male,53,46562,10,Bachelors
+1040,Employee_40,Sales,Female,47,44489,11,Bachelors
+1041,Employee_41,Finance,Female,40,78735,10,Bachelors
+1042,Employee_42,HR,Male,23,67810,9,PhD
+1043,Employee_43,HR,Female,27,94396,5,Masters
+1044,Employee_44,IT,Female,26,69040,1,PhD
+1045,Employee_45,HR,Male,28,107469,8,PhD
+1046,Employee_46,Sales,Male,50,54867,1,PhD
+1047,Employee_47,Finance,Female,40,115332,1,PhD
+1048,Employee_48,IT,Female,31,98997,1,PhD
+1049,Employee_49,Marketing,Male,53,103696,4,PhD
+1050,Employee_50,IT,Male,37,94874,9,Masters
